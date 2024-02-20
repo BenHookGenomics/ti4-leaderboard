@@ -20,4 +20,10 @@ jobs:
       run: cd generator && cd build && make
     - name: generate new leaderboard
       run: ./generator/build/bin/ti4-echelon --games games.txt --leaderboard leaderboard
-   
+    - name: commit leaderboard files
+      uses: EndBug/add-and-commit@main
+      with:
+        add: "--all"
+        message: "Update leaderboard."
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
