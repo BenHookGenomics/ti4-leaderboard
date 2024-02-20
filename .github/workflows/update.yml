@@ -19,5 +19,5 @@ jobs:
     - name: build generator
       run: cd generator && cd build && make
     - name: generate new leaderboard
-      run: ./generator/build/bin/ti4-echelon --games games.txt --leaderboard leaderboard2
+      run: ./generator/build/bin/ti4-echelon --games games.txt --leaderboard ./leaderboard2
    
