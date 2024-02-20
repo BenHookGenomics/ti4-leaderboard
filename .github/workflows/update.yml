@@ -28,6 +28,7 @@ jobs:
       uses: EndBug/add-and-commit@main
       with:
         add: "--all"
+        new_branch: custom-new-branch
         message: "Update leaderboard."
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
