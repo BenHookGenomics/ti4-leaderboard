@@ -4,7 +4,7 @@
 - [Games](#games)
 - [License](#license)
 
-Last updated 2024-02-20 01:38 UTC.
+Last updated 2024-02-24 13:51 UTC.
 
 # Players
 
@@ -19,11 +19,15 @@ Last updated 2024-02-20 01:38 UTC.
 
 | **Player** | **Games** | **Curr. Rating** | **Avg Rating** | **Avg Pts.** | **Win Rate** | **1st Place** | **2nd Place** | **3rd Place** |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Fred | 2 | 1185 | 1148 | 10.00 | 83% | 100% (2) | 0% (0) | 0% (0) |
-| Jack | 2 | 1103 | 1083 | 8.00 | 0% | 0% (0) | 100% (2) | 0% (0) |
-| Ben | 2 | 1016 | 1013 | 7.00 | 0% | 0% (0) | 0% (0) | 100% (2) |
-| Matt | 2 | 922 | 937 | 7.00 | 0% | 0% (0) | 0% (0) | 0% (0) |
-| Gabor | 2 | 818 | 853 | 6.00 | 0% | 0% (0) | 0% (0) | 0% (0) |
+| Ben | 3 | 1188 | 1180 | 8.67 | 39% | 33% (1) | 33% (1) | 33% (1) |
+| Matt | 4 | 1093 | 1139 | 8.25 | 50% | 50% (2) | 0% (0) | 0% (0) |
+| Jack | 3 | 1162 | 1123 | 8.00 | 0% | 0% (0) | 67% (2) | 33% (1) |
+| James | 2 | 1146 | 1084 | 7.50 | 0% | 0% (0) | 50% (1) | 0% (0) |
+| Fred | 3 | 1114 | 1050 | 7.67 | 28% | 33% (1) | 0% (0) | 33% (1) |
+| Tom | 3 | 928 | 956 | 6.00 | 0% | 0% (0) | 0% (0) | 0% (0) |
+| Will | 2 | 947 | 929 | 6.50 | 0% | 0% (0) | 0% (0) | 50% (1) |
+| Marcus | 1 | 846 | 846 | 6.00 | 0% | 0% (0) | 0% (0) | 0% (0) |
+| Gabor | 3 | 762 | 809 | 4.67 | 0% | 0% (0) | 0% (0) | 0% (0) |
 
 Average victory points per game are adjusted relative to 10-point games, and effective win rates are calculated relative to 6-player games.
 
@@ -64,11 +68,24 @@ Effective win rates are calculated relative to 6-player games.
 
 | **Faction** | **Games** | **Curr. Rating** | **Avg Rating** | **Avg Pts.** | **Win Rate** | **1st Place** | **2nd Place** | **3rd Place** |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Winnu | 2 | 1185 | 1148 | 10.00 | 83% | 100% (2) | 0% (0) | 0% (0) |
-| Federation of Sol | 2 | 1103 | 1083 | 8.00 | 0% | 0% (0) | 100% (2) | 0% (0) |
-| Nomad | 2 | 1016 | 1013 | 7.00 | 0% | 0% (0) | 0% (0) | 100% (2) |
-| Xxcha Kingdom | 2 | 922 | 937 | 7.00 | 0% | 0% (0) | 0% (0) | 0% (0) |
-| Empyrean | 2 | 818 | 853 | 6.00 | 0% | 0% (0) | 0% (0) | 0% (0) |
+| Nomad | 3 | 1176 | 1188 | 9.00 | 67% | 67% (2) | 0% (0) | 33% (1) |
+| Yin Brotherhood | 2 | 1130 | 1145 | 8.50 | 58% | 50% (1) | 0% (0) | 50% (1) |
+| Winnu | 1 | 1128 | 1128 | 10.00 | 83% | 100% (1) | 0% (0) | 0% (0) |
+| L1z1x Mindnet | 1 | 1114 | 1114 | 9.00 | 0% | 0% (0) | 100% (1) | 0% (0) |
+| Argent Flight | 1 | 1085 | 1085 | 8.00 | 0% | 0% (0) | 100% (1) | 0% (0) |
+| Naaz-Rokha Alliance | 1 | 1075 | 1075 | 8.00 | 0% | 0% (0) | 0% (0) | 100% (1) |
+| Empyrean | 2 | 978 | 1048 | 7.50 | 0% | 0% (0) | 50% (1) | 0% (0) |
+| Embers of Muaat | 2 | 1008 | 1039 | 6.50 | 0% | 0% (0) | 0% (0) | 50% (1) |
+| Arborec | 1 | 1026 | 1026 | 6.00 | 0% | 0% (0) | 0% (0) | 0% (0) |
+| Ghosts of Creuss | 1 | 1022 | 1022 | 6.00 | 0% | 0% (0) | 0% (0) | 0% (0) |
+| Sardakk N'orr | 1 | 974 | 974 | 7.00 | 0% | 0% (0) | 0% (0) | 0% (0) |
+| Naalu Collective | 1 | 969 | 969 | 6.00 | 0% | 0% (0) | 0% (0) | 0% (0) |
+| Xxcha Kingdom | 1 | 965 | 965 | 7.00 | 0% | 0% (0) | 0% (0) | 0% (0) |
+| Nekro Virus | 1 | 915 | 915 | 5.00 | 0% | 0% (0) | 0% (0) | 0% (0) |
+| Federation of Sol | 2 | 976 | 911 | 7.00 | 0% | 0% (0) | 50% (1) | 0% (0) |
+| Titans of Ul | 1 | 910 | 910 | 6.00 | 0% | 0% (0) | 0% (0) | 0% (0) |
+| Vuil'raith Cabal | 1 | 910 | 910 | 4.00 | 0% | 0% (0) | 0% (0) | 0% (0) |
+| Emirates of Hacan | 1 | 851 | 851 | 4.00 | 0% | 0% (0) | 0% (0) | 0% (0) |
 
 Average victory points per game are adjusted relative to 10-point games, and effective win rates are calculated relative to 6-player games.
 
@@ -78,11 +95,15 @@ Average victory points per game are adjusted relative to 10-point games, and eff
 
 ![Factions Ratings Plot 1](factions/ratings1.png)
 
+![Factions Ratings Plot 2](factions/ratings2.png)
+
 [(Back to Factions)](#factions)
 
 ## Factions: Points
 
 ![Factions Points Plot 1](factions/points1.png)
+
+![Factions Points Plot 2](factions/points2.png)
 
 Average victory points per game are adjusted relative to 10-point games.
 
@@ -91,6 +112,8 @@ Average victory points per game are adjusted relative to 10-point games.
 ## Factions: Win Rates
 
 ![Factions Win Rates Plot 1](factions/winrates1.png)
+
+![Factions Win Rates Plot 2](factions/winrates2.png)
 
 Effective win rates are calculated relative to 6-player games.
 
@@ -106,8 +129,10 @@ Effective win rates are calculated relative to 6-player games.
 
 | **Game** | **Date** | **Mode** | **Points** | **Players** | **Results** |
 | :---: | :---: | :---: | :---: | :---: | :--- |
-| 2 | 2023-12-15 | Free-for-All | 10 | 5 | 14h00m, 1st Fred 10 Winnu, 2nd Jack 8 Federation of Sol, 3rd Ben 7 Nomad, 4th Matt 7 Xxcha Kingdom, 5th Gabor 6 Empyrean |
-| 1 | 2023-12-14 | Free-for-All | 10 | 5 | 14h00m, 1st Fred 10 Winnu, 2nd Jack 8 Federation of Sol, 3rd Ben 7 Nomad, 4th Matt 7 Xxcha Kingdom, 5th Gabor 6 Empyrean |
+| 4 | 2023-12-14 | Free-for-All | 10 | 5 | 14h00m, 1st Fred 10 Winnu, 2nd Jack 8 Federation of Sol, 3rd Ben 7 Nomad, 4th Matt 7 Xxcha Kingdom, 5th Gabor 6 Empyrean |
+| 3 | 2023-10-23 | Free-for-All | 10 | 5 | 7h00m, 1st Matt 10 Nomad, 2nd Jack 8 Argent Flight, 3rd Will 7 Yin Brotherhood, 4th Tom 7 Sardakk N'orr, 5th Gabor 4 Vuil'raith Cabal |
+| 2 | 2023-08-23 | Free-for-All | 10 | 7 | 12h00m, 1st Ben 10 Yin Brotherhood, 2nd James 9 Empyrean, 3rd Jack 8 Naaz-Rokha Alliance, 4th Matt 6 Arborec, 5th Tom 5 Embers of Muaat, 6th Fred 5 Nekro Virus, 7th Gabor 4 Emirates of Hacan |
+| 1 | 2023-04-23 | Free-for-All | 10 | 7 | 12h00m, 1st Matt 10 Nomad, 2nd Ben 9 L1z1x Mindnet, 3rd Fred 8 Embers of Muaat, 4th James 6 Ghosts of Creuss, 5th Tom 6 Naalu Collective, 6th Will 6 Titans of Ul, 7th Marcus 6 Federation of Sol |
 
 [(Back to Top)](#)
 
