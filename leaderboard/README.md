@@ -4,7 +4,7 @@
 - [Games](#games)
 - [License](#license)
 
-Last updated 2024-02-24 13:51 UTC.
+Last updated 2024-02-25 00:46 UTC.
 
 # Players
 
@@ -19,15 +19,15 @@ Last updated 2024-02-24 13:51 UTC.
 
 | **Player** | **Games** | **Curr. Rating** | **Avg Rating** | **Avg Pts.** | **Win Rate** | **1st Place** | **2nd Place** | **3rd Place** |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Ben | 3 | 1188 | 1180 | 8.67 | 39% | 33% (1) | 33% (1) | 33% (1) |
-| Matt | 4 | 1093 | 1139 | 8.25 | 50% | 50% (2) | 0% (0) | 0% (0) |
-| Jack | 3 | 1162 | 1123 | 8.00 | 0% | 0% (0) | 67% (2) | 33% (1) |
+| Jack | 4 | 1258 | 1156 | 8.50 | 25% | 25% (1) | 50% (2) | 25% (1) |
+| Matt | 5 | 1168 | 1145 | 8.60 | 40% | 40% (2) | 20% (1) | 0% (0) |
+| Ben | 4 | 992 | 1133 | 8.25 | 29% | 25% (1) | 25% (1) | 25% (1) |
 | James | 2 | 1146 | 1084 | 7.50 | 0% | 0% (0) | 50% (1) | 0% (0) |
-| Fred | 3 | 1114 | 1050 | 7.67 | 28% | 33% (1) | 0% (0) | 33% (1) |
+| Fred | 4 | 1012 | 1040 | 8.00 | 21% | 25% (1) | 0% (0) | 25% (1) |
+| Will | 3 | 1030 | 962 | 7.33 | 0% | 0% (0) | 0% (0) | 67% (2) |
 | Tom | 3 | 928 | 956 | 6.00 | 0% | 0% (0) | 0% (0) | 0% (0) |
-| Will | 2 | 947 | 929 | 6.50 | 0% | 0% (0) | 0% (0) | 50% (1) |
 | Marcus | 1 | 846 | 846 | 6.00 | 0% | 0% (0) | 0% (0) | 0% (0) |
-| Gabor | 3 | 762 | 809 | 4.67 | 0% | 0% (0) | 0% (0) | 0% (0) |
+| Gabor | 4 | 848 | 819 | 5.75 | 0% | 0% (0) | 0% (0) | 0% (0) |
 
 Average victory points per game are adjusted relative to 10-point games, and effective win rates are calculated relative to 6-player games.
 
@@ -74,18 +74,20 @@ Effective win rates are calculated relative to 6-player games.
 | L1z1x Mindnet | 1 | 1114 | 1114 | 9.00 | 0% | 0% (0) | 100% (1) | 0% (0) |
 | Argent Flight | 1 | 1085 | 1085 | 8.00 | 0% | 0% (0) | 100% (1) | 0% (0) |
 | Naaz-Rokha Alliance | 1 | 1075 | 1075 | 8.00 | 0% | 0% (0) | 0% (0) | 100% (1) |
+| Mentak Coalition | 1 | 1075 | 1075 | 10.00 | 0% | 0% (0) | 100% (1) | 0% (0) |
 | Empyrean | 2 | 978 | 1048 | 7.50 | 0% | 0% (0) | 50% (1) | 0% (0) |
 | Embers of Muaat | 2 | 1008 | 1039 | 6.50 | 0% | 0% (0) | 0% (0) | 50% (1) |
-| Arborec | 1 | 1026 | 1026 | 6.00 | 0% | 0% (0) | 0% (0) | 0% (0) |
 | Ghosts of Creuss | 1 | 1022 | 1022 | 6.00 | 0% | 0% (0) | 0% (0) | 0% (0) |
-| Sardakk N'orr | 1 | 974 | 974 | 7.00 | 0% | 0% (0) | 0% (0) | 0% (0) |
+| Arborec | 2 | 929 | 978 | 7.50 | 0% | 0% (0) | 0% (0) | 0% (0) |
+| Mahact Gene-Sorcerers | 1 | 973 | 973 | 9.00 | 0% | 0% (0) | 0% (0) | 0% (0) |
 | Naalu Collective | 1 | 969 | 969 | 6.00 | 0% | 0% (0) | 0% (0) | 0% (0) |
 | Xxcha Kingdom | 1 | 965 | 965 | 7.00 | 0% | 0% (0) | 0% (0) | 0% (0) |
+| Vuil'raith Cabal | 2 | 975 | 943 | 6.50 | 0% | 0% (0) | 0% (0) | 50% (1) |
+| Emirates of Hacan | 2 | 1034 | 943 | 7.00 | 50% | 50% (1) | 0% (0) | 0% (0) |
 | Nekro Virus | 1 | 915 | 915 | 5.00 | 0% | 0% (0) | 0% (0) | 0% (0) |
 | Federation of Sol | 2 | 976 | 911 | 7.00 | 0% | 0% (0) | 50% (1) | 0% (0) |
 | Titans of Ul | 1 | 910 | 910 | 6.00 | 0% | 0% (0) | 0% (0) | 0% (0) |
-| Vuil'raith Cabal | 1 | 910 | 910 | 4.00 | 0% | 0% (0) | 0% (0) | 0% (0) |
-| Emirates of Hacan | 1 | 851 | 851 | 4.00 | 0% | 0% (0) | 0% (0) | 0% (0) |
+| Sardakk N'orr | 2 | 836 | 905 | 7.00 | 0% | 0% (0) | 0% (0) | 0% (0) |
 
 Average victory points per game are adjusted relative to 10-point games, and effective win rates are calculated relative to 6-player games.
 
@@ -129,6 +131,7 @@ Effective win rates are calculated relative to 6-player games.
 
 | **Game** | **Date** | **Mode** | **Points** | **Players** | **Results** |
 | :---: | :---: | :---: | :---: | :---: | :--- |
+| 5 | 2024-02-24 | Free-for-All | 10 | 6 | 24h00m, 1st Jack 10 Emirates of Hacan, 2nd Matt 10 Mentak Coalition, 3rd Will 9 Vuil'raith Cabal, 4th Gabor 9 Mahact Gene-Sorcerers, 5th Fred 9 Arborec, 6th Ben 7 Sardakk N'orr |
 | 4 | 2023-12-14 | Free-for-All | 10 | 5 | 14h00m, 1st Fred 10 Winnu, 2nd Jack 8 Federation of Sol, 3rd Ben 7 Nomad, 4th Matt 7 Xxcha Kingdom, 5th Gabor 6 Empyrean |
 | 3 | 2023-10-23 | Free-for-All | 10 | 5 | 7h00m, 1st Matt 10 Nomad, 2nd Jack 8 Argent Flight, 3rd Will 7 Yin Brotherhood, 4th Tom 7 Sardakk N'orr, 5th Gabor 4 Vuil'raith Cabal |
 | 2 | 2023-08-23 | Free-for-All | 10 | 7 | 12h00m, 1st Ben 10 Yin Brotherhood, 2nd James 9 Empyrean, 3rd Jack 8 Naaz-Rokha Alliance, 4th Matt 6 Arborec, 5th Tom 5 Embers of Muaat, 6th Fred 5 Nekro Virus, 7th Gabor 4 Emirates of Hacan |
